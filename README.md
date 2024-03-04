@@ -1,4 +1,4 @@
 ## How to Run:
-Enter the directory__
-In the terminal, type "make all"__
-Then type "./bin/53Shell"__
+Enter the directory\n
+In the terminal, type "make all"\n
+Then type "./bin/53Shell"\n
